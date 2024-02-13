@@ -44,4 +44,3 @@ namespace intro.DataAccess.Concretes
             courses.Add(course);
         }
     }
-}
